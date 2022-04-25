@@ -32,7 +32,7 @@ The Website-design Screenshot:
 ![](./assets/images/Screenshot%20Website-design%20Fylo%20App...png)
 
 The Mobile-design Screenshot:
-![](./assets/images/Sceenshot%20Mobile-design%20Fylo%20App...png)
+![](./assets/images/Sceenshot%20Mobile-design%20Fylo%20App.png)
 
 
 **Note: The above is the screenshot of the challenge.**
