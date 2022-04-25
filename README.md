@@ -39,8 +39,7 @@ The Mobile-design Screenshot:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Deployed App](https://capstone-enigma.netlify.app/)
 
 ## My process
 
